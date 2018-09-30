@@ -1,0 +1,28 @@
+{
+  "name": "elksdk",
+  "version": "1.0.3",
+  "description": "Module to connect with ELK stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"dependencies": {
+    "properties-reader": "*",
+    "request": "*"
+  },
+"repository": {
+    "type": "git",
+    "url": "git://github.com/techbin/elkstack.git"
+  },
+"keywords": [
+    "elk",
+    "api",
+    "elk stack",
+    "nodejs"
+  ],
+  "author": "Satish Kumar <satish.prg@gmail.com>",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/techbin/elkstack.git"
+  }
+}
