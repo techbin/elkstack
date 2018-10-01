@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Node JS Wrapper for ELK Stack
 
 ##Abstract
@@ -151,3 +152,6 @@ console.log(ElkStack.clusterhealth(entrydata));
 
 ##Error Handling:
 All errors will be thrown explicitly and care should be taken in catching the same.
+=======
+# elkstack
+>>>>>>> 4fdcc2c8122f6fa26a4cc3af38e072b52e85782b

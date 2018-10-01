@@ -21,7 +21,7 @@
     "nodejs"
   ],
   "author": "Satish Kumar <satish.prg@gmail.com>",
-  "license": "GNU",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/techbin/elkstack.git"
   }
